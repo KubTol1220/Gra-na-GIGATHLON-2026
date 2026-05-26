@@ -17,4 +17,4 @@ Złów wymaganą liczbę tuńczyków i uważaj na:
 
 Zawijaj do portów, aby zwiększyć poziom paliwa!
 
-Powodzenia!
+Życzę miłej gry i powodzenia!
