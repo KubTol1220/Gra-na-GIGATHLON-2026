@@ -7,7 +7,8 @@ Uruchomienie programu
  - W - góra
  - S - dół
  - A - lewo
- - D - prawo 
+ - D - prawo
+
 Cel gry: 
 Złów wymaganą liczbę tuńczyków i uważaj na: 
 - piratów,
